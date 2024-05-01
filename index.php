@@ -53,7 +53,7 @@ TR.impair {
    $server = "ypsolap1-server.mysql.database.azure.com";
    $dbname = "db_ypsolap";
    $user = "dsgprpepou";
-   $pass = "Password1";
+   $pass = "Password1234";
 
    try {
 		//On se connecte a la BDD
