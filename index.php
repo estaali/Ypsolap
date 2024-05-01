@@ -50,9 +50,9 @@ TR.impair {
 <body>
 <?php
    // Connexion a la base de donnees MariaDB
-   $server = "localhost";
+   $server = "ypsolap1-server.mysql.database.azure.com";
    $dbname = "db_ypsolap";
-   $user = "emir";
+   $user = "dsgprpepou";
    $pass = "Password1";
 
    try {
