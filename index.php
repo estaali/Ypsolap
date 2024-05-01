@@ -36,7 +36,7 @@ TABLE.users {
 }
 TR.title {
     background-color: #ACD8EE;
-    font-weight = bold;
+    font-weight : bold;
 }
 TR.pair {
     background-color: #E7EBED;
